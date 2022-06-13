@@ -1,0 +1,2 @@
+# PubgBattleInfoGetter
+和平精英实时抓取淘汰信息的APP
