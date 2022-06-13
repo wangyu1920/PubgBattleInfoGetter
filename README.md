@@ -1,2 +1,3 @@
 # PubgBattleInfoGetter
 和平精英实时抓取淘汰信息的APP
+基于OpenCV，实现对淘汰信息的检测
